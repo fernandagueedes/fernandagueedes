@@ -3,7 +3,8 @@
 - 👩‍💻 Gestora Publica 
 - 👩‍🎓 **Estudande de Deselvolvedor Java no Senai** 
 - ⏳ Em transição de carreira
-- 🏃‍♀️ Apaixodada por corrida de rua
+- 💻 Apaixonada por tecnologia
+- 🏃‍♀️ Corredora amadora 
 - 👩‍🍳 Cozinheira nas horas vagas
 - 🔍 Focada em: 
 <div style="display: inline">

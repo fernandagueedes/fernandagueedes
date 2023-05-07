@@ -12,6 +12,9 @@
  </div>       
  
  
+ 
+ ***"O SUCESSO é a soma de pequenos ESFORÇOS repetidos DIARIAMENTE."***
+ 
 #### **Você também me encontra em:**
  <a href="https://instagram.com/fernandagueedes?igshid=NTc4MTIwNjQ2YQ=="><img width="70" heigth="100" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
  

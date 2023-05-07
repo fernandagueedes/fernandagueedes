@@ -1,11 +1,11 @@
 ### Olá, meu nome é Fernanda! 👋
 
-- 👩‍💻Gestora Publica 
+- 👩‍💻 Gestora Publica 
 - 👩‍🎓 **Estudande de Deselvolvedor Java no Senai** 
-- ⏳Em transição de carreira
+- ⏳ Em transição de carreira
 - 🏃‍♀️ Apaixodada por corrida de rua
 - 👩‍🍳 Cozinheira nas horas vagas
-- 🔍Focada em: 
+- 🔍 Focada em: 
 <div style="display: inline">
   <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;&nbsp;
     <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;&nbsp;

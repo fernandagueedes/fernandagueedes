@@ -1,7 +1,7 @@
 ### Olá, meu nome é Fernanda! 👋
 
 - 👩‍💻 Gestora Publica 
-- 👩‍🎓 **Estudande de Deselvolvedor Java no Senai** 
+- 👩‍🎓 **Estudante de Deselvolvedor Java no Senai** 
 - ⏳ Em transição de carreira
 - 💻 Apaixonada por tecnologia
 - 🏃‍♀️ Corredora amadora 
